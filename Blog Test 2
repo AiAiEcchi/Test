@@ -1,53 +1,193 @@
 {
-
   "title": "That Time I Got Reincarnated as a Slime",
-
-  "description": "အသက် ၃၇ နှစ် Lengends FA Satoru Mikami
-
- မမျှတတဲ့ပုံမှန်ဘဝကြီးမှာ ပုံမှန်ဘဝနဲ့နေထိုင်တယ်
-
- ဒါပေမယ် ဓားထိုးခံရပြီးသေသွားပြီးတဲ့နောက်မှာ ဓားထိုးခံရလို့သေသွားပြီးသေသွားပြီး
-
-အခြားကမ္ဘာ ကြီးမှာ
-
- ဘဝအသစ်နဲ့တစ်ဖန်အစပြုခဲ့တယ်....
-
-နောက်ဘဝမှာ
-
- တွေ့သမျှမိန်းကလေးတွေအကုန်
-
-ကြောင်ပစ်မယ်ဆိုတဲ့ဆန္ဒနဲ့အတူတူ
-
- မကောင်းဆိုးဝါး Slime အနေနဲ့ အစပြုခဲ့ပါတယ်...
-
-ဘယ်လိုကောင်မလေးတွေကြားမှာစော်ကြည်မလဲ...?
-
-ဘယ်လိုစွမ်းအားတွေနဲ့ တိုက်ခိုက်မလဲ?
-
-မိုးကြိုးနဂါး Tempest ကိုဘယ်လိုကယ်ထုတ်မလဲ?
-
-အခြားကမ္ဘာ ကသူရဲကောင်းတွေနဲ့ဘယ်လိုတိုက်ခိုက်မလဲ ပြီးတော့ ဘယ်လို ဘီလူးတွေရဲ့ခေါင်းဆောင်ဖြစ်လာမလဲ ဆိုတာ ကြည့်ရှုအားပေးကြပါအုံးလို့...",
-
+  "description": "Lonely thirty-seven-year-old Satoru Mikami is stuck in a dead-end job, unhappy with his mundane life, but after dying at the hands of a robber, he awakens to a fresh start in a fantasy realm...as a slime monster! As he acclimates to his goopy new existence, his exploits with the other monsters set off a chain of events that will change his new world forever!\n\nCaught up with the last chapter and can't get enough?\nThe Light Novel continues the story at Volume 6 Chapter 5.\nRead our fan translated light novels on Slime Reader at https://tensurafan.github.io",
   "artist": "Taiki Kawakami",
-
   "author": "Fuse",
-
   "cover": "https://cdn.discordapp.com/attachments/466617567994445835/857259642437369897/RDT_20210623_1603078917049327338730082.jpg",
-
   "chapters": {
-
     "86": {
-
       "title": "Octagram Demon Lords",
-
       "volume": "17",
-
       "groups": {
-
         "Tempest": "/proxy/api/imgur/chapter/r4XTiA8/"
-
       },
-
       "last_updated": "1627510754"
-
+    },
+    "85": {
+      "title": "In the Holy Land",
+      "volume": "17",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/XOusvG3/"
+      },
+      "last_updated": "1624715702"
+    },
+    "84": {
+      "title": "Moderate Clown Troupe",
+      "volume": "17",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/UzzegdF/"
+      },
+      "last_updated": "1622011006"
+    },
+    "83": {
+      "title": "Crazed Pierrot",
+      "volume": "17",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/fYSMPVD/"
+      },
+      "last_updated": "1619446801"
+    },
+    "82": {
+      "title": "The Loyalty of a Demon",
+      "volume": "17",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/AwAfFBk/"
+      },
+      "last_updated": "1616767260"
+    },
+    "81": {
+      "title": "The Wight King",
+      "volume": "17",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/MVkT4Kj/"
+      },
+      "last_updated": "1614348060"
+    },
+    "80": {
+      "title": "Return of the Great Beast",
+      "volume": "17",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/Xcq81yd/"
+      },
+      "last_updated": "1611669660"
+    },
+    "79": {
+      "title": "Battle",
+      "volume": "17",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/ILJ6DlO/"
+      },
+      "last_updated": "1611669660"
+    },
+    "78": {
+      "title": "Walpurgis",
+      "volume": "17",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/4bLFygE/"
+      },
+      "last_updated": "1608991260"
+    },
+    "77": {
+      "title": "Eve of Battle",
+      "volume": "17",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/yJ5QJB7/"
+      },
+      "last_updated": "1606399260"
+    },
+    "76": {
+      "title": "Demon Lords and True Dragons",
+      "volume": "17",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/HI3r3Qn/"
+      },
+      "last_updated": "1603720860"
+    },
+    "75": {
+      "title": "Man-And-Monster Summit 2",
+      "volume": "17",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/FsvYtpV/"
+      },
+      "last_updated": "1601128860"
+    },
+    "74": {
+      "title": "Man-And-Monster Summit 1",
+      "volume": "16",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/Vz4VccU/"
+      },
+      "last_updated": "1598450460"
+    },
+    "73": {
+      "title": "The Majins' Scheme",
+      "volume": "16",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/tR28wMU/"
+      },
+      "last_updated": "1595772060"
+    },
+    "72": {
+      "title": "Swirling Conspiracy",
+      "volume": "16",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/p04HzUZ/"
+      },
+      "last_updated": "1593180060"
+    },
+    "71": {
+      "title": "The Unleashed",
+      "volume": "16",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/rCCUD4b/"
+      },
+      "last_updated": "1590505260"
+    },
+    "70": {
+      "title": "Yuurazania, Day of Destruction",
+      "volume": "15",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/FHPcCJR/"
+      },
+      "last_updated": "1587913260"
+    },
+    "69": {
+      "title": "Tempest Resurrection Festival",
+      "volume": "15",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/2bDsmGg/"
+      },
+      "last_updated": "1585231260"
+    },
+    "68": {
+      "title": "Birth of a Demon Lord",
+      "volume": "15",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/cXCiQls/"
+      },
+      "last_updated": "1582725660"
+    },
+    "67": {
+      "title": "Demon of Respect and Affection",
+      "volume": "14",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/4WdLTCU/"
+      },
+      "last_updated": "1580047260"
+    },
+    "66": {
+      "title": "Merciless",
+      "volume": "14",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/8oF9Tzl/"
+      },
+      "last_updated": "1577368860"
+    },
+    "65.5": {
+      "title": "A White Clover in a Place of Death",
+      "volume": "14",
+      "groups": {
+        "Shurim": "/proxy/api/imgur/chapter/dA5Zo9i/"
+      },
+      "last_updated": "1574776860"
+    },
+    "65": {
+      "title": "Megiddo",
+      "volume": "14",
+      "groups": {
+        "Tempest": "/proxy/api/imgur/chapter/22WT5Hc/"
+      },
+      "last_updated": "1574776860"
     }
+  }
+}
